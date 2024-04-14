@@ -1,4 +1,4 @@
-baseURL = 'https://joeconlin.org/'
+baseURL = 'https://hugo.joeconlin.org/'
 languageCode = 'en-us'
 title = 'Joe Conlin Org'
 theme = 'ananke'
